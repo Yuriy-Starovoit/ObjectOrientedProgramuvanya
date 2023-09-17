@@ -10,7 +10,7 @@ name = "Yura"
 location = "Kyiv"
 print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
 ```
-
+![alt text](https://github.com/Yuriy-Starovoit/ObjectOrientedProgramuvanya/blob/main/pictures/Screenshot_1.png "1")
 
 ### Висновок: 
 - Я навчився оформляти роботи і писати програми на пайтоні і Git.
