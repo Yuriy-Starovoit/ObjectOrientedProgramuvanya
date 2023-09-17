@@ -10,7 +10,8 @@ name = "Yura"
 location = "Kyiv"
 print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
 ```
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/lll.jpg " ")
+-
+![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/lll.jpg "1")
 
 ### Висновок: 
 - Я навчився оформляти роботи і писати програми на пайтоні і Git.
