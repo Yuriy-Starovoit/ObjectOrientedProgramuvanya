@@ -13,6 +13,7 @@ location = "Kyiv"
 print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
 ```
 - Скіншот
+- 
 ![alt text](https://github.com/Yuriy-Starovoit/ObjectOrientedProgramuvanya/blob/main/pictures/lll.jpg "1")
 
 ### Висновок: 
