@@ -1,1 +1,1 @@
-# ObjectOrientedProgramuvanya
+Я Юрій
