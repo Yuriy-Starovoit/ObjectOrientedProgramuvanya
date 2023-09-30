@@ -4,13 +4,18 @@
 ### Виконання роботи
 
 ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+---
 ```python
 from datetime import datetime
 name = "Yura"
 location = "Kyiv"
+
 print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
 ```
-![alt text](https://github.com/Yuriy-Starovoit/ObjectOrientedProgramuvanya/blob/main/pictures/Screenshot_1.jpg "1")![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/lll.jpg " ")
+- Скіншот
+---
+![alt text](https://github.com/Yuriy-Starovoit/ObjectOrientedProgramuvanya/blob/main/pictures/lll.jpg "1")
 
 ### Висновок: 
 - Я навчився оформляти роботи і писати програми на пайтоні і Git.
+---
