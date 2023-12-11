@@ -39,7 +39,7 @@ print("Результат:", result)
 ```
 2. Результат виконання програми:
 -
-
+![alt text](https://github.com/Yuriy-Starovoit/ObjectOrientedProgramuvanya/blob/main/2%D0%BB%D0%B0%D0%B1%D0%B0/pictures/%D0%B0%D0%B2%D1%96.png "Результат")
 -
 ### Висновок
 Я навчився використовувати дані мови програмування python, написав програму, де використав цикли та інші функції.
