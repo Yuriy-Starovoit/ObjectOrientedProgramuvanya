@@ -48,17 +48,25 @@ class MyName:
 
 
 print("Let's Start!") 
-names = ("Bohdan", "Marta", None) 
-all_names = {name: MyName(name) for name in names} 
+#names = ("Bohdan", "Marta", None) 
+#all_names = {name: MyName(name) for name in names} 
+#
+#for name, me in all_names.items(): 
+#    print(f"""{">*<"*20} 
+#This is object: {me}  
+#This is object attribute: {me.name} / {me.my_id} 
+#This is {type(MyName.whoami)}: {me.whoami} / {me.my_email} 
+#This is {type(me.create_email)} call: {me.create_email()} 
+#This is static {type(MyName.say_hello)} with defaults: {me.say_hello()} 
+#This is class variable {type(MyName.total_names)}: from class {MyName.total_names} / from object {me.total_names} 
+#{"<*>"*20}""") 
+#
+#print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?") 
+#
+#### Індивідуальні завдання
+custom_message = "Greetings to all!"
+print(MyName.say_hello(custom_message)) 
 
-for name, me in all_names.items(): 
-    print(f"""{">*<"*20} 
-This is object: {me}  
-This is object attribute: {me.name} / {me.my_id} 
-This is {type(MyName.whoami)}: {me.whoami} / {me.my_email} 
-This is {type(me.create_email)} call: {me.create_email()} 
-This is static {type(MyName.say_hello)} with defaults: {me.say_hello()} 
-This is class variable {type(MyName.total_names)}: from class {MyName.total_names} / from object {me.total_names} 
-{"<*>"*20}""") 
-
-print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?") 
+anon_user = MyName.anonymous_user()
+print(anon_user.whoami) 
+print(anon_user.my_email)  
