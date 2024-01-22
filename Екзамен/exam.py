@@ -5,4 +5,4 @@ class MyClass:
 
 my_instance = MyClass()
 result = my_instance.my_method("Додатковий текст")
-print("Результат методу:", result
+print("Результат методу:", result)
